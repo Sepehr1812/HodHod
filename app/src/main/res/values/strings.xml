@@ -1,9 +1,9 @@
 <resources>
     <string name="app_name">HodHod</string>
-    <string name="join_room">ورود به اتاق</string>
-    <string name="enter_key">کلید اتاق را وارد کنید</string>
-    <string name="enter">ورود</string>
-    <string name="cancel">بی‌خیال!</string>
+    <string name="join_room">به دنیا وصل شو!</string>
+    <string name="enter_key">کلید مخفیتو رو اینجا وارد کن</string>
+    <string name="enter">وصلم کن!</string>
+    <string name="cancel">فعلا نه :(</string>
     <string name="enter_key_toast">لطفا یک کلید معتبر وارد کنید</string>
     <string name="plus">+</string>
     <string name="be_secure_be_connected">Be Secure, Be Connected</string>
