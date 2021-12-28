@@ -8,4 +8,6 @@
     <string name="plus">+</string>
     <string name="be_secure_be_connected">Be Secure, Be Connected</string>
     <string name="by_krj_team">by_krj_team</string>
+    <string name="no_message">اولین کسی باشید که پیامی می‌فرستد.</string>
+    <string name="no_room">هنوز وارد اتاقی نشده‌اید.</string>
 </resources>
