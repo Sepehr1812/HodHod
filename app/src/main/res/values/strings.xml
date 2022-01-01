@@ -7,7 +7,7 @@
     <string name="enter_key_toast">لطفا یک کلید معتبر وارد کنید</string>
     <string name="plus">+</string>
     <string name="be_secure_be_connected">Be Secure, Be Connected</string>
-    <string name="by_krj_team">by_krj_team</string>
+    <string name="by_krj_team">by krj team</string>
     <string name="no_message">اولین کسی باشید که پیامی می‌فرستد.</string>
     <string name="no_user_in_room">هنوز کسی پیامی ارسال نکرده است :(</string>
     <string name="no_room">هنوز وارد اتاقی نشده‌اید.</string>
@@ -16,5 +16,8 @@
     <string name="grant_permission">دسترسی می‌دم!</string>
 
     <string name="google_maps_key" templateMergeStrategy="preserve" translatable="false">AIzaSyAdJEZeBd6r31DNpL8H7hwMIT1TK2MzNNk</string>
+    <string name="leave">اتاق رو ترک کن</string>
+    <string name="type_a_message">پیامتو بنویس...</string>
+    <string name="send">بفرست</string>
 
 </resources>
