@@ -17,7 +17,7 @@ We benefited from several Android concepts and libraries, including:
 * Google Map API
 * MQTT Protocol
 
-We tried to use Android best practices in code and UI design to reach the best possible performance in the application.
+We implemented this project with **MVVM architecture**. We tried to use Android best practices in code and UI design to reach the best possible performance in the application.
 
 ## Collaborators
 This application was developed by me and my classmates [Farbod](https://github.com/farbodxrs) and [Samaneh](https://github.com/samaneh-yari).
